@@ -1,0 +1,13 @@
+require("muh.plugins-setup")
+require("muh.core.options")
+require("muh.core.keymaps")
+require("muh.core.colorscheme")
+require("muh.plugins.comment")
+require("muh.plugins.nvim-tree")
+require("muh.plugins.lualine")
+require("muh.plugins.telescope")
+require("muh.plugins.nvim-cmp")
+require("muh.plugins.mason")
+require("muh.plugins.lspsaga")
+require("muh.plugins.lspconfig")
+
