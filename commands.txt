@@ -1,0 +1,5 @@
+git add files_path
+git commit -m "comment"
+git remote add origin https://tokenhere@github.com/usernmae/reponame
+git push -u origina main
+
